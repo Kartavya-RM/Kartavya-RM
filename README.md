@@ -2,8 +2,6 @@
 
 Computer Science undergrad at **Banaras Hindu University**. I write C and C++, and I'm working toward full-stack development and applied generative AI.
 
-Right now, most of my hours go into preparing for **GATE CS**.
-
 ### Now
 
 - **GATE CS** — data structures, algorithms, operating systems, DBMS, computer networks
