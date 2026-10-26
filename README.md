@@ -13,5 +13,4 @@ I write C and C++, and I'm steadily building full-stack skills on the side while
 `C` · `C++` · `Git` · `Linux` · `VS Code`
 
 ### Find me
-- LinkedIn — *(add your URL)*
 - Email — kartavyarajmani2008@gmail.com
