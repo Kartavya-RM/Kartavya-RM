@@ -1,16 +1,19 @@
 ﻿# Kartavya Rajmani
 
-Computer Science undergrad at **Banaras Hindu University**, working toward **GATE CS**.
-I write C and C++, and I'm steadily building full-stack skills on the side while exploring generative AI.
+Computer Science undergrad at **Banaras Hindu University**. I write C and C++, and I'm working toward full-stack development and applied generative AI.
 
-### Right now
-- B.Sc. Computer Science (Research) at BHU
-- Preparing for GATE CS — DSA, algorithms, OS, DBMS, networks
-- Learning full-stack development
-- Experimenting with generative AI and developer tooling
+Right now, most of my hours go into preparing for **GATE CS**.
 
-### Tools I reach for
-`C` · `C++` · `Git` · `Linux` · `VS Code`
+### Now
 
-### Find me
-- Email — kartavyarajmani2008@gmail.com
+- **GATE CS** — data structures, algorithms, operating systems, DBMS, computer networks
+- **Full stack** — learning the web stack end to end, one project at a time
+- **Generative AI** — exploring LLM applications and the tooling around them
+
+### Toolkit
+
+`C` · `C++` · `Git` · `Linux`
+
+### Contact
+
+kartavyarajmani2008@gmail.com
